@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">exercise1.CalculateFraction</node>
+    <node x="38.5" y="280.0">exercise1.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="exercise1.Main" target="exercise1.CalculateFraction">
+      <point x="-41.75" y="-26.0" />
+      <point x="80.25" y="255.0" />
+      <point x="61.0" y="255.0" />
+      <point x="-61.0" y="115.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="53.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
